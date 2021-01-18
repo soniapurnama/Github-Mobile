@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="please_search_first">Silahkan cari terlebih dahulu</string>
+    <string name="follower">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="detail_user">Detail Pengguna</string>
+</resources>
